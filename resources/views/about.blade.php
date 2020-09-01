@@ -31,6 +31,7 @@
 							<option data-display="English">English</option>
 							<option value="1">Germany</option>
 							<option value="2">Spanish</option>
+							<option value="3">French</option>
 						</select>
 					</div>
 					<div class="col-lg-9 col-sm-6 col-8 header-top-right">
